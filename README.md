@@ -15,7 +15,7 @@ Remember to make a copy if you overwrite any file.
 
 These files has been done and tested using Prestashop 1.5.6.2 and the _"How to use"_ before is intented to be used when you are using the default theme (or very similar theme based on it) without any modification on the **"category.tpl"** file and with no existing **"CategoryController.php"** inside the override folder.
 
-If that is not your case, you could check the wiki where I explain what changes I made to the original files so you can try to make this changes in your shop.
+If that is not your case, you could check the [wiki]{https://github.com/rubrodapa/Empty-Categories-Controller/wiki} where I explain what changes I made to the original files so you can try to make this changes in your shop.
 
 > Copyright 2014 Ruben R Aparicio
 
