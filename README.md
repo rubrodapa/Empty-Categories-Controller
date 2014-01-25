@@ -17,6 +17,11 @@ These files has been done and tested using Prestashop 1.5.6.2 and the _"How to u
 
 If that is not your case, you could check the [wiki](https://github.com/rubrodapa/Empty-Categories-Controller/wiki) where I explain what changes I made to the original files so you can try to make this changes in your shop.
 
+###Tested on:###
+
+- Prestashop 1.5.6.2
+- Prestashop 1.5.6.1
+
 > Copyright 2014 Ruben R Aparicio
 
 >Licensed under the Apache License, Version 2.0 (the "License");
