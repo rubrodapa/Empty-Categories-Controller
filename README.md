@@ -5,6 +5,8 @@ This is an override file for the Category Crontroller and category template of *
 
 The aim of this modifications is to hide empty subcategories when showing the products and subcategories of a category.
 
+You can download it from here: [Empty-Categories-Controller](http://zvblog.es/?wpdmact=process&did=Mi5ob3RsaW5r)
+
 How to use:
 -----------
 - Move the file in _override/controllers/front/CategoryController.php_ to the same location in your **Prestashop** installation.
